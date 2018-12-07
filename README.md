@@ -5,8 +5,8 @@ This programme was created using Eclipse.
 
 Programme purpose:
 This is a programme that can have multiple software users and each software user can have their own database of fans, players or 
-subscribers. Also, each user can specify what values would he like his users to have except for name, surname and age which pre-programmed
-attributes. Programme is persistent and saves linked lists in .txt format relatively so does not need access permissions.
+subscribers. Also, each user can specify what values the users are allowed to have except for name, surname and age which pre-programmed
+attributes. Programme is persistent and saves linked lists in .txt format relatively, so does not need access permissions.
 
 
 How to:
