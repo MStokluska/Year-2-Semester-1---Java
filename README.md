@@ -1,5 +1,5 @@
 # Year-2-Semester-1---Java
-This is my final project for semester 1 of year 2 at Waterford Institute of Technology BSc in Information Technology
+This is my final programming project for semester 1 of year 2 at Waterford Institute of Technology BSc in Information Technology
 
 This programme was created using Eclipse.
 
